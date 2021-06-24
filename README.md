@@ -1,5 +1,5 @@
-# portfolio
-### This repository consists of my projects I've done during studying at “Yandex.Practicum Data Science” professional program. 
+## portfolio
+#### This repository consists of my projects I've done during studying at “Yandex.Practicum Data Science” professional program. 
 
 | Project name | Description | Used Libraries | 
 | :---------------------- | :---------------------- | :---------------------- |
